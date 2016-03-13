@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8a334c80-3626-461c-9038-7270cd7ea396" : {
+
+    },
+    "8a334c80-3626-461c-9038-7270cd7ea396++4985" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8a334c80-3626-461c-9038-7270cd7ea396" : 0,
+    "8a334c80-3626-461c-9038-7270cd7ea396++4985" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA36F85D-D5FB-4E7E-8409-3DF9B05DB29A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8a334c80-3626-461c-9038-7270cd7ea396" : "..",
+    "8a334c80-3626-461c-9038-7270cd7ea396++4985" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeatherReport",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeatherReport.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/weather_gzs151108",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8a334c80-3626-461c-9038-7270cd7ea396"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/weather_gzs151108",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8a334c80-3626-461c-9038-7270cd7ea396++4985"
+    }
+  ]
+}
